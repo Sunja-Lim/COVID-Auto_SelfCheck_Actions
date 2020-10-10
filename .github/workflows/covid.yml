@@ -1,0 +1,21 @@
+name: covid_selfcheck
+on:
+  schedule:
+    - cron: '0 22 * * *'  # every KST 7:00
+  push:
+    branches: master
+jobs:
+  SelfCheck:
+   runs-on: ubuntu-latest
+   steps:
+     - uses: actions/checkout@v2
+     - run: npm install
+     - name: Auto Check
+       uses: ./
+       env:
+        # check readme
+        NAME: ${{ secrets.NAME }}
+        BIRTH: ${{ secrets.BIRTH }}
+        REGION: ${{ secrets.RG }}
+        SCHOOL: ${{ secrets.SC }}
+        LEVEL: ${{ secrets.LEVEL }}

@@ -1,0 +1,7 @@
+name: COVID-Auto_SelfCheck
+author: KeepSOBP
+description: COVID-19 Self-diagnosis auto check for Korean schools
+
+runs:
+  using: node12
+  main: ./index.js
