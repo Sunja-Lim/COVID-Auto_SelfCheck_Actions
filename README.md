@@ -9,9 +9,10 @@
 
 **[Actions 기능 끄는 법](#Actions%20기능%20끄는%20법)**
 
-# 왜?
-1. 귀찮아서
-2. 안하다 높은 확률로 청소를 할 수 있음(?)
+# 체크 된지 어떻게 알아요?
+![](https://cdn.statically.io/img/bread.shx.gg/f=auto,w=500/ZivFfs.png)
+
+`Actions`탭에 가시면 볼 수 있습니다.
 
 # 어떻게 해요?
 1. [이 레포를 포크해주세요.](https://github.com/KeepSOBP/COVID-Auto_SelfCheck_Actions/fork)
