@@ -1,9 +1,11 @@
 # COVID-Auto_SelfCheck_Actions
-[![CodeFactor](https://www.codefactor.io/repository/github/keepsobp/covid-auto_selfcheck_actions/badge)](https://www.codefactor.io/repository/github/keepsobp/covid-auto_selfcheck_actions)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/c031e5a8165b4141a40f4cbff22d6c85)](https://www.codacy.com/gh/KeepSOBP/COVID-Auto_SelfCheck_Actions/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=KeepSOBP/COVID-Auto_SelfCheck_Actions&amp;utm_campaign=Badge_Grade)
 
 매일 오전 7시(utc 22:00)에 자동으로 자가진단을 해줍니다.
 
-# 🚨 주의!
+**주말은 자가진단 스킵!**
+
+# 🚨 주의
 
 **🚨 사용중 의심 증상이 있다면, 반드시 Actions 기능을 꺼두고 수동으로 자가진단을 하셔야 합니다. 🚨**
 
@@ -36,6 +38,11 @@
 `Settings` -> `Actions` 탭으로 가셔서 `Disable Actions`를 누르고, `Save`를 눌러주세요.
 
 다시 키는건 `Allow all Actions`를 누르시면 됩니다.
+
+# 업데이트법
+`https://github.com/본인깃헙닉네임/COVID-Auto_SelfCheck/compare/master...KeepSOBP:master`
+
+본인깃헙닉네임 자리에 본인 깃헙 닉네임 넣으시고 풀리퀘 넣으시면 됩니다.
 
 ## Contributors 
 Heavyrisem - [Original git](https://github.com/Heavyrisem/COVID-Auto_SelfCheck)
