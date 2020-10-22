@@ -1,11 +1,11 @@
 # COVID-Auto_SelfCheck_Actions
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/c031e5a8165b4141a40f4cbff22d6c85)](https://www.codacy.com/gh/KeepSOBP/COVID-Auto_SelfCheck_Actions/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=KeepSOBP/COVID-Auto_SelfCheck_Actions&amp;utm_campaign=Badge_Grade)
+[![CodeFactor](https://www.codefactor.io/repository/github/keepsobp/covid-auto_selfcheck_actions/badge)](https://www.codefactor.io/repository/github/keepsobp/covid-auto_selfcheck_actions)
 
 매일 오전 7시(utc 22:00)에 자동으로 자가진단을 해줍니다.
 
 **주말은 자가진단 스킵!**
 
-# 🚨 주의
+# 🚨 주의!
 
 **🚨 사용중 의심 증상이 있다면, 반드시 Actions 기능을 꺼두고 수동으로 자가진단을 하셔야 합니다. 🚨**
 
