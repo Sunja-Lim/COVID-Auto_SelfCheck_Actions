@@ -1,7 +1,7 @@
 name: covid_selfcheck
 on:
   schedule:
-    - cron: '0 22 * * 0-4'  # every KST 7:00
+    - cron: '0 22 * * 0-5'  # every KST 7:00
 jobs:
   SelfCheck:
    runs-on: ubuntu-latest
